@@ -32,7 +32,7 @@ public class Demo {
     }
     
      //添加了12的功能
-    public void fun11(){
+    public void fun12(){
         System.out.println("开发了12");
     }
 }
