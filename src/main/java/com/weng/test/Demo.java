@@ -27,4 +27,9 @@ public class Demo {
     public void fun11(){
         System.out.println("开发了11");
     }
+    
+     //添加了12的功能
+    public void fun11(){
+        System.out.println("开发了12");
+    }
 }
