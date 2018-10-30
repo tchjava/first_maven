@@ -15,6 +15,6 @@ public class Demo {
     }
 
     public void fun2(){
-
+         System.out.print("fun2...");
     }
 }
