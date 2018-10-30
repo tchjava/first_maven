@@ -6,5 +6,6 @@ public class Demo {
     }
     public void fun(){
         System.out.print("Hello");
+         System.out.print("He2llo");
     }
 }
