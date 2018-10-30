@@ -21,7 +21,10 @@ public class Demo {
     public void fun9(){
     System.out.println("开发了9");
     }
-
+    //红加了新功能
+    public void funhong(){
+        System.out.println("开发了9");
+    }
 
     //添加了11的功能
     public void fun11(){
