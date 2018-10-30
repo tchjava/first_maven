@@ -25,7 +25,19 @@ public class Demo {
         System.out.println("你好");
     }
 
+    public void fun6(){
+        System.out.println("开发了6");
+    }
+
     public void fun5(){
         System.out.println("开发了5");
+    }
+
+    public void fun7(){
+        System.out.println("开发了7...");
+    }
+
+    public void fun8(){
+        System.out.println("开发了8.");
     }
 }
