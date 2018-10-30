@@ -13,4 +13,8 @@ public class Demo {
     public void fun1(){
 
     }
+
+    public void fun2(){
+
+    }
 }
