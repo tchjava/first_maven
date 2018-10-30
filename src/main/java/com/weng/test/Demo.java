@@ -21,4 +21,8 @@ public class Demo {
     {
         System.out.println("你好");
     }
+
+    public void fun6(){
+        System.out.println("开发了6");
+    }
 }
