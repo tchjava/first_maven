@@ -21,9 +21,4 @@ public class Demo {
     public void fun9(){
     System.out.println("开发了9");
     }
-    
-    //小红添加了新功能
-    public void fun10(){
-    System.out.println("开发了10");
-    }
 }
