@@ -12,4 +12,7 @@ public class Demo {
     public void fun7(){
         System.out.println("开发了7...");
     }
+    public void fun8(){
+    System.out.println("开发了8...");
+    }
 }
