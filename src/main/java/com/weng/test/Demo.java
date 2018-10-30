@@ -8,4 +8,9 @@ public class Demo {
         System.out.print("Hello");
          System.out.print("He2llo");
     }
+
+
+    public void fun1(){
+
+    }
 }
