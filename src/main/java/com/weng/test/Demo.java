@@ -17,8 +17,15 @@ public class Demo {
     public void fun2(){
          System.out.print("fun2...");
     }
+    public void fun4(){
+
+    }
     public void fun3()
     {
         System.out.println("你好");
+    }
+
+    public void fun5(){
+        System.out.println("开发了5");
     }
 }
