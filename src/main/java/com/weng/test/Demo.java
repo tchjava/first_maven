@@ -16,4 +16,9 @@ public class Demo {
     System.out.println("开发了8...");
         System.out.println("开发了8.1");
     }
+    
+    //小李加了新功能
+    public void fun9(){
+    System.out.println("开发了9");
+    }
 }
