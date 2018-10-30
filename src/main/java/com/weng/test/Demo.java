@@ -17,4 +17,8 @@ public class Demo {
     public void fun2(){
          System.out.print("fun2...");
     }
+    public void fun3()
+    {
+        System.out.println("你好");
+    }
 }
