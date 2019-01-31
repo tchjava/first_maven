@@ -44,4 +44,12 @@ public class Demo {
     //开发13.1
     //哈哈，嘿嘿
     //开发12.2
+    public static void main(String[] args) {
+        Student student=new Student();
+        //我在本地输出了这句话
+        System.out.println(student);
+        //我在本地输出的第二句话
+        System.out.println("我爱你中国");
+    }
+
 }
