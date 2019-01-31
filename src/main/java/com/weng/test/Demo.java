@@ -34,6 +34,8 @@ public class Demo {
      //添加了12的功能
     public void fun12(){
         System.out.println("开发了12");
+        //复制了一个
+        System.out.println("开发了12");
     }
 
     //在github上添加了12.1的功能
